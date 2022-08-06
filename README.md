@@ -15,6 +15,13 @@ Give the candiates
 
 How to write a unit test in coderpad
 
+
+## BinarySearch.cs
+
+A binary search example for a sorted array
+- Search both the start and end of an array 
+- return the position 
+
 ## ToTheFrontOfTheGig.cs
 
 > Get your friend to the front of the gig!
